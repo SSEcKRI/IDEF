@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T06:26:31.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.114 YaBrowser/22.9.1.1095 Yowser/2.5 Safari/537.36" etag="fe3g8KRwxQSBxh6H7v-a" version="20.5.3" type="device"><diagram id="Gk8FtN_CoA5SptuAjBgc" name="Страница 1">7VlNc5swEP01zLQHZxAgjI/GOO30Y6bTtNPkKIOCmWDLFTi2++srIQkkMEmcOGmS5oK1K2kFq7dvV7LlThbbDxSt5l9JgnPLsZOt5UaW44y8gD25YicU0POEIqVZIlSgUZxlf7BU2lK7zhJcGANLQvIyW5nKmCyXOC4NHaKUbMxhlyQ3V12hFHcUZzHKu9pfWVLOhTZwho3+I87SuVoZ+CPRs0BqsPySYo4SstFU7tRyJ5SQUrQW2wnOue+UX8S8057e+sUoXpZ3mXD6/eLn6tP59vM0+nFFxng3yeyBtHKN8rX8YCsCVgCsyLZCr3ralWYo244Qo0ocV0/VxZ+T6gmrZ6SmVF9f7pRLN/OsxGcrFHN5w1BjueG8XORMAqwp3wjTEm97PxXUDmTAw2SBS7pjQ+QE15arStA5UMqbZgsdNWaub58aiCRs0tp241nWkM49wNFu19Ftv+BlMuaIZVKco6LIYtMxlKyXCeaL2ExirqC7c1244MIJVGK01TujnZTEsjjpwL7lXBZniKa4vA083U3QnAz3+FjpKM5RmV2br7HP73KFbyRjL1jvMXDMPXYdaJooyJrGWM7S46JlqA0Wt40B4YeOIbZXaKcNW/EBRQcotWPuj51gT5DW0TdVsVaH7akWg+NKL4I6rIKXKQPVqKOVjzkxtbaaWY9Qk5toD5XdNpIZur6gGcsEBoBRnqVLjm6GNEyZggd5xrh2LDsWWZJwGyHFRfYHzSp7HLTSt8w4DC0Y3cQSMhHIyQ396gDvj9BeShnYJ44PPAMp4DhANo0OlKwskMvLApePgSt4dE7aZuW57OFtjZGY1BASFw7nIxHQz5WPYJtGghaN3JWP/OAWYuvho2OhYrSfbaYaH4SKCerCINI441QRiZjid0qCsVZL1Hw1VaVFYIxplmNesIHC7EsnG3gb2dgjb9jihaPA1G0ZbRl4PLLxH68AamqeC6Pked0FkNcinLogOpRwvFYlBYYPLYDu+MJD48DCGsLiUWEH9hXefs62IixWaGkA0P+95oex8JIsy0FRHUXHnHSc1bbCjT1D8VVaoXAQk5xQ0U/T2TuHn3PZG9qON5INaL+vZimrrJVWv+0azdOoztVqOtEOBuaBq1vmidJML/PE9zF/iU+U60r1jP6Lj35xPteTGnsCreCddk7HjmZaJce+XXgN6cu/LX15LoQPYzl1dHefKkENnypBgf80QUH/vgmqbeiJEhQET5GgnGeZoMbakR9q9KlfOkBVwes3gH0TQ00TaTcJtZGDrh3E+eEtz/XnOT1J1Rmudq3o1e+R3tzZ704dhawNDQdL+Na33YdckGu+1VYEso5rarqJMgs6O6wH5Ei7Cwzlct0lXnNhMryxMGHHanbaeVhye0ghwsTm/x4xvPnTzJ3+BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-26T08:24:03.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="DE_I4F-lpxRJOKwwt8Pe" version="20.6.0" type="github">
+  <diagram id="Gk8FtN_CoA5SptuAjBgc" name="Страница 1">
+    <mxGraphModel dx="781" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-1" value="сдача экзамена" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="250" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="FRYUpJXxKEDTkoAeyCi0-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="325" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-8" value="конспекты и мет. материалы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FRYUpJXxKEDTkoAeyCi0-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.2614" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FRYUpJXxKEDTkoAeyCi0-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="380" as="sourcePoint" />
+            <mxPoint x="680" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-9" value="отличная оценка по шкале 1-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FRYUpJXxKEDTkoAeyCi0-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.0947" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="FRYUpJXxKEDTkoAeyCi0-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="120" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;педагоги-эксперты&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;педагоги-наблюдатели&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FRYUpJXxKEDTkoAeyCi0-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.4355" relative="1" as="geometry">
+            <mxPoint y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="FRYUpJXxKEDTkoAeyCi0-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FRYUpJXxKEDTkoAeyCi0-12" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;крепкое закрепление материала&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;подготовка&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;приход на экзамен&lt;br&gt;быть спокойным&lt;br&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="FRYUpJXxKEDTkoAeyCi0-7" vertex="1" connectable="0">
+          <mxGeometry x="0.0242" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
